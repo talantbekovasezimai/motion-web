@@ -1,0 +1,46 @@
+@media (max-width: 768px){
+    .container {
+        width: 90%;
+    }
+    
+    .hero {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .swiper-text {
+        margin-top:400px ;
+    }
+
+    .block {
+        margin-top: 400px;
+    }
+    .block img {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .all-advice{
+        display: none;
+    }
+
+    .registration {
+        display: none;
+    }
+
+    .aman {
+        display: none;
+    }
+    
+    .footer-start {
+        display: none;
+        align-items: start;
+    }
+
+    .footer-end {
+        display: none;align-items: center;
+    }
+
+}
